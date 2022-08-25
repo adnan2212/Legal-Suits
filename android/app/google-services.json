@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "166110565559",
+    "project_id": "legalsuites-8787c",
+    "storage_bucket": "legalsuites-8787c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166110565559:android:53a598c08152dcbc5ee932",
+        "android_client_info": {
+          "package_name": "com.legalsuites.app.legalsuits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166110565559-nk7mn7579mt8mh6nfn2oaekqj2b0fd9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.legalsuites.app.legalsuits",
+            "certificate_hash": "2221c493f5866a97a0a48ddd28fd8b9e72c4b5f5"
+          }
+        },
+        {
+          "client_id": "166110565559-5n3kbk10gj0pjfu8e0507da3hl7fn9fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATLBI4UZb9_7dGXBrXf64IasznwZL1ALg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166110565559-5n3kbk10gj0pjfu8e0507da3hl7fn9fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
